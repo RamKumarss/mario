@@ -16,5 +16,10 @@ const config: Config = {
     },
   },
   plugins: [],
+  // purge: {
+  //   options: {
+  //     safelist: ['bg-[url(\'/https://wallpapercave.com/wp/wp2647936.gif\')]'], // Add the dynamic class you're using for background image here
+  //   },
+  // },
 }
 export default config
